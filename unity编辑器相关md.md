@@ -522,4 +522,10 @@ UWA学堂:https://edu.uwa4d.com/
 
 [动作游戏伤害](https://bbs.gameres.com/thread_657016.html)
 
-[unity性能优化](https://zhuanlan.zhihu.com/p/39529241?from_voters_page=true)
+[unity性能优化工具](https://zhuanlan.zhihu.com/p/39529241?from_voters_page=true)
+
+[unity性能优化cpu](https://zhuanlan.zhihu.com/p/39998137)
+
+[unity性能优化渲染](https://zhuanlan.zhihu.com/p/40900056?ivk_sa=1024320u)
+
+[unity相关](https://www.zhihu.com/people/etnly/posts)
