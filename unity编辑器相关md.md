@@ -276,7 +276,11 @@ public class SineAnimationEditor : Editor
 
 OnSceneGUI 的运行方式很像 OnInspectorGUI - 只不过在 Scene 视图中运行而已。为了方便在 Scene 视图中创建自己的编辑控件，可以使用在 [Handles](https://docs.unity.cn/cn/current/ScriptReference/Handles.html) 类中定义的函数。其中的所有函数都是为 3D 模式的 Scene 视图设计的。
 
-[官方文档后半部分](:https://blog.csdn.net/qq_38275140/article/details/84778344)
+相关链接:https://www.xuanyusong.com/archives/2303
+
+相关链接:https://blog.csdn.net/wangjiangrong/article/details/80053893
+
+[官方文档](https://docs.unity3d.com/cn/2020.2/ScriptReference/Editor.OnSceneGUI.html)
 
 ### ReorderableList可拖动列表
 
