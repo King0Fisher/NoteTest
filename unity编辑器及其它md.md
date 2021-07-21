@@ -536,6 +536,6 @@ UWA学堂:https://edu.uwa4d.com/
 
 [.Net Reflector反编译工具](https://www.jb51.net/softs/629309.html#downintro2)
 
-
+ [A*Pathfinding](https://zhuanlan.zhihu.com/p/69593821)
 
 [天地劫战棋制作](https://edu.manew.com/goods/show/485)
