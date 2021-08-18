@@ -480,6 +480,12 @@ GUIStyle
 
 
 
+[playModeStateChanged 编辑器Game播放模式变化](https://docs.unity.cn/cn/current/ScriptReference/EditorApplication-playModeStateChanged.html)
+
+
+
+
+
 [Unity AssetBundle	1](https://zhuanlan.zhihu.com/p/93199562)
 
 [Unity AssetBundle	2](https://blog.csdn.net/qq_35361471/article/details/82854560)
