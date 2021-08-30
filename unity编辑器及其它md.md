@@ -482,7 +482,11 @@ GUIStyle
 
 [playModeStateChanged 编辑器Game播放模式变化](https://docs.unity.cn/cn/current/ScriptReference/EditorApplication-playModeStateChanged.html)
 
+[预览内容绘制OnPreviewGUI](https://docs.unity.cn/cn/current/ScriptReference/Editor.OnPreviewGUI.html)
 
+[DrawPreview](https://docs.unity.cn/cn/current/ScriptReference/Editor.DrawPreview.html)
+
+[编辑器显示Preview](https://www.cnblogs.com/Csmiling/p/5997758.html)
 
 
 
