@@ -466,6 +466,48 @@ https://blog.csdn.net/acwk0442/article/details/101502125
 
 
 
+## ScriptableWizard 编辑器向导
+
+[官方文档](https://docs.unity.cn/cn/current/ScriptReference/ScriptableWizard.html)
+
+开启新窗口
+
+```c#
+public class ProducerEditDialog : ScriptableWizard
+{
+    public bool isOK = false;
+    private void OnGUI()
+    {
+        UIItemDatabase.Instance.producerIdsIndex = EditorGUILayout.Popup(UIItemDatabase.Instance.producerIdsIndex,UIItemDatabase.Instance.producerIds);
+
+        if (GUILayout.Button("确认", GUILayout.Width(50)))
+        {
+            isOK = true;
+            EditorWindow.FocusWindowIfItsOpen(typeof(ItemInfoEditor));
+        }
+    }
+}
+```
+
+```c#
+       public static ProducerEditDialog pdd;  
+
+
+		if(GUILayout.Button("修改",GUILayout.Width(50)))
+        {
+            pdd= ScriptableWizard.DisplayWizard<ProducerEditDialog>("作者Id");          
+            pdd.position = new Rect(position.x+250, position.y+100, 200, 100);
+        }
+```
+
+## GL
+
+[官方文档](https://docs.unity3d.com/cn/2020.2/ScriptReference/GL.html)
+
+[csdn相关链接](https://blog.csdn.net/Htlas/article/details/79748512)
+
+
+
 GUIStyle
 
 各样式 https://blog.csdn.net/u011428080/article/details/106676213
@@ -553,3 +595,5 @@ UWA学堂:https://edu.uwa4d.com/
  [A*Pathfinding](https://zhuanlan.zhihu.com/p/69593821)
 
 [天地劫战棋制作](https://edu.manew.com/goods/show/485)
+
+![_16303752919021](unity编辑器及其它md.assets/_16303752919021.png)
