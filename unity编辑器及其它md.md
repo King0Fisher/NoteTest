@@ -596,4 +596,8 @@ UWA学堂:https://edu.uwa4d.com/
 
 [天地劫战棋制作](https://edu.manew.com/goods/show/485)
 
+[unity2d书](https://www.jb51.net/books/552397.html)
+
+unity 2020.1.17
+
 ![_16303752919021](unity编辑器及其它md.assets/_16303752919021.png)
