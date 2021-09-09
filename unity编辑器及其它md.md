@@ -530,7 +530,13 @@ GUIStyle
 
 [编辑器显示Preview](https://www.cnblogs.com/Csmiling/p/5997758.html)
 
+{	Prefab
 
+[EditorUtility.SaveFilePanelInProject  在项目的 Assets 文件夹中显示“保存文件”对话框并返回所选的路径名称。](https://docs.unity.cn/cn/current/ScriptReference/EditorUtility.SaveFilePanelInProject.html)
+
+[PrefabUtility.SaveAsPrefabAsset](https://docs.unity.cn/cn/current/ScriptReference/PrefabUtility.SaveAsPrefabAsset.html)
+
+}
 
 [Unity AssetBundle	1](https://zhuanlan.zhihu.com/p/93199562)
 
