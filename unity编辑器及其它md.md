@@ -516,7 +516,9 @@ GUIStyle
 
 [DecoratorDrawer](https://blog.csdn.net/YongshuangZhao/article/details/80225223)
 
+[EditorGUIUtility.PingObject](https://www.baidu.com/s?ie=UTF-8&wd=unity%20PingObject) 
 
+[Selection.activeGameObject](https://docs.unity.cn/cn/current/ScriptReference/Selection-activeGameObject.html) 
 
 [UnityEditor 组合键](https://blog.csdn.net/li1164407295/article/details/84202214)	第二种 直接Event  control shift capsLock command 是否按住
 
@@ -535,6 +537,20 @@ GUIStyle
 [EditorUtility.SaveFilePanelInProject  在项目的 Assets 文件夹中显示“保存文件”对话框并返回所选的路径名称。](https://docs.unity.cn/cn/current/ScriptReference/EditorUtility.SaveFilePanelInProject.html)
 
 [PrefabUtility.SaveAsPrefabAsset](https://docs.unity.cn/cn/current/ScriptReference/PrefabUtility.SaveAsPrefabAsset.html)
+
+}
+
+{
+
+Unity GUID
+
+[[Unity文件、文件引用、meta详解](https://www.cnblogs.com/CodeGize/p/8697227.html)]
+
+[Unity资源,对象和序列化(上)](https://www.cnblogs.com/zhaoqingqing/p/5823927.html)
+
+[玩转Unity资源，对象和序列化(下)](https://www.cnblogs.com/zhaoqingqing/p/5825907.html)
+
+[Unity GUID](https://blog.csdn.net/qq_37421018/article/details/98172662)
 
 }
 
