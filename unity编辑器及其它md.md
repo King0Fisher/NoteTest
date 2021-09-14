@@ -570,7 +570,7 @@ UnityEditorInternal命名空间
 
 
 
-unity projector
+unity projector(阴影 投影)
 
 [Unity AssetBundle	1](https://zhuanlan.zhihu.com/p/93199562)
 
@@ -641,6 +641,14 @@ https://tieba.baidu.com/p/6908597952
 [.Net Reflector反编译工具](https://www.jb51.net/softs/629309.html#downintro2)
 
  [A*Pathfinding](https://zhuanlan.zhihu.com/p/69593821)
+
+
+
+[NavMeshSurface2dBaker](https://github.com/sharlatany/navmeshsurface2dbaker)
+
+[NavMeshSurface](https://github.com/Unity-Technologies/NavMeshComponents)
+
+[NavMeshPlus](https://github.com/h8man/NavMeshPlus)
 
 [天地劫战棋制作](https://edu.manew.com/goods/show/485)
 
