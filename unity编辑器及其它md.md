@@ -500,6 +500,10 @@ public class ProducerEditDialog : ScriptableWizard
         }
 ```
 
+
+
+(Unity编辑器扩展实践  通过代码查找所有预制)[https://blog.csdn.net/qq_33461689/article/details/103773692]
+
 ## GL
 
 [官方文档](https://docs.unity3d.com/cn/2020.2/ScriptReference/GL.html)
