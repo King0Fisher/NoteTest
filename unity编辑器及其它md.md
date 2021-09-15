@@ -576,6 +576,43 @@ unity projector(阴影 投影)
 
 [Unity AssetBundle	2](https://blog.csdn.net/qq_35361471/article/details/82854560)
 
+[Unity Addressables 深入浅出(一)](https://zhuanlan.zhihu.com/p/244905174)	
+
+https://www.zhihu.com/people/cheng-du-sao-ke-ke/posts
+
+```c#
+public class UnitInfo : ScriptableObject
+{
+    //public GameObject prefab;
+    public GameObject Prefab
+    {
+        get
+        {
+            GameObject prefab = (GameObject)PrefabReference.Asset;
+            if (prefab == null)
+            {
+                if (PrefabReference != null)
+                {
+                    var handle = PrefabReference.LoadAssetAsync<GameObject>();
+                    prefab = handle.WaitForCompletion();
+                }
+            }
+
+            return prefab;
+        }
+    }
+
+    public AssetReference PrefabReference;
+```
+
+[Unity资源管理](https://zhuanlan.zhihu.com/p/34679893)
+
+
+
+[UnityEvent 和 C# event 的差异与选择](https://blog.dctewi.com/post/unityevent-vs-csharpevent/)
+
+[Unity 新 InputSystem](https://zhuanlan.zhihu.com/p/106396562)
+
 [unity系统内置图标](https://www.xuanyusong.com/archives/3777/comment-page-1)
 
 [Unity所有自带style和icon](https://blog.csdn.net/qq_33337811/article/details/74012108)
@@ -653,6 +690,8 @@ https://tieba.baidu.com/p/6908597952
 [天地劫战棋制作](https://edu.manew.com/goods/show/485)
 
 [unity2d书](https://www.jb51.net/books/552397.html)
+
+[编程命名规范](https://zhuanlan.zhihu.com/p/89909623)
 
 unity 2020.1.17
 
