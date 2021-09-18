@@ -508,6 +508,8 @@ public class ProducerEditDialog : ScriptableWizard
 
 [【编辑器】脚本实现OpenPrefab界面](https://blog.csdn.net/sinat_34870723/article/details/92832399)
 
+[ H  面板相关  StageUtility](https://docs.unity3d.com/cn/2020.3/ScriptReference/SceneManagement.StageUtility.html)		[退出Prefab](https://www.cnblogs.com/zs3718/p/12487323.html)	[PrefabStageUtility  prefab相关](https://www.cnblogs.com/seeker4/p/13691658.html)
+
 
 
 ## 描述
