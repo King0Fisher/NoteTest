@@ -502,7 +502,15 @@ public class ProducerEditDialog : ScriptableWizard
 
 
 
-(Unity编辑器扩展实践  通过代码查找所有预制)[https://blog.csdn.net/qq_33461689/article/details/103773692]
+[Unity编辑器扩展实践  通过代码查找所有预制](https://blog.csdn.net/qq_33461689/article/details/103773692)
+
+[OnValidate](https://blog.csdn.net/piai9568/article/details/96645500)
+
+[【编辑器】脚本实现OpenPrefab界面](https://blog.csdn.net/sinat_34870723/article/details/92832399)
+
+
+
+## 描述
 
 ## GL
 
