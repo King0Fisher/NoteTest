@@ -316,6 +316,8 @@ onChangedCallback 列表改变回调
 
 复杂使用实例:https://blog.csdn.net/qq_26999509/article/details/77801852
 
+介绍 https://va.lent.in/unity-make-your-lists-functional-with-reorderablelist/
+
 ### GenericMenu选项菜单
 
 GenericMenu允许创建自定义上下文菜单和下拉菜单,您可以通过该菜单更改应用于窗口中 GUI 的颜色。
