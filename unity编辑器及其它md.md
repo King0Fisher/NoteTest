@@ -715,6 +715,14 @@ https://tieba.baidu.com/p/6908597952
 
 [编程命名规范](https://zhuanlan.zhihu.com/p/89909623)
 
+[Unity提取游戏资源工具](http://www.xuanyusong.com/archives/3618)
+
+​			https://blog.csdn.net/kenkao/article/details/89957778
+
+
+
+[深圳东方](https://tieba.baidu.com/p/6908597952?pn=1)
+
 unity 2020.1.17
 
 ![_16303752919021](unity编辑器及其它md.assets/_16303752919021.png)
