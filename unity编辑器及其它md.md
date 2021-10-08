@@ -715,9 +715,13 @@ https://tieba.baidu.com/p/6908597952
 
 [编程命名规范](https://zhuanlan.zhihu.com/p/89909623)
 
+[Unity exe打包安装包](https://wenku.baidu.com/view/a599694e974bcf84b9d528ea81c758f5f71f297a.html)
+
 [Unity提取游戏资源工具](http://www.xuanyusong.com/archives/3618)
 
 ​			https://blog.csdn.net/kenkao/article/details/89957778
+
+
 
 
 
