@@ -538,6 +538,8 @@ GUIStyle
 
 [UnityEditor 组合键](https://blog.csdn.net/li1164407295/article/details/84202214)	第二种 直接Event  control shift capsLock command 是否按住
 
+[Unity3D中的Attribute详解（一）8篇文章](https://www.cnblogs.com/cangxw/p/8251898.html)
+
 
 
 [playModeStateChanged 编辑器Game播放模式变化](https://docs.unity.cn/cn/current/ScriptReference/EditorApplication-playModeStateChanged.html)
@@ -718,6 +720,16 @@ https://tieba.baidu.com/p/6908597952
 [游戏框架相关](https://blog.csdn.net/weixin_42224688/article/details/80937986?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
 
 [游戏框架相关](https://blog.csdn.net/weixin_42487737/article/details/112329645?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-0.no_search_link&spm=1001.2101.3001.4242)
+
+[ECS](https://blog.csdn.net/zcaixzy5211314/article/details/84888743)
+
+[ECS](https://blog.csdn.net/u012338130/article/details/104091937?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.no_search_link&spm=1001.2101.3001.4242)
+
+[游戏开发中的ECS 架构概述](https://blog.csdn.net/qq_14914623/article/details/81451002)
+
+[(一)ECS：这是什么鬼？](https://blog.csdn.net/u012371712/article/details/87475891?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522163394435216780261998952%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=163394435216780261998952&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v29-3-87475891.pc_v2_rank_blog_default&utm_term=ECS&spm=1018.2226.3001.4450)
+
+[(二)ECS: Pure vs Hybrid](https://blog.csdn.net/u012371712/article/details/87527005)
 
 [编程命名规范](https://zhuanlan.zhihu.com/p/89909623)
 
