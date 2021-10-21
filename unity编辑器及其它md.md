@@ -659,6 +659,8 @@ UWA学堂:https://edu.uwa4d.com/
 
 [C# 反射，通过类名、方法名调用方法](https://www.cnblogs.com/coderJiebao/p/CSharp09.html)
 
+[C#中IEnumerable、ICollection、IList、IQueryable 、List之间的区别](https://blog.csdn.net/sunstar8921/article/details/81702483)
+
 [C#GetHashCode](https://zhuanlan.zhihu.com/p/87291534)      https://blog.csdn.net/cnhk1225/article/details/23391885
 
 [Unity 3D 监听资源创建 删除 移动 保存等事件](https://blog.csdn.net/songhuanfei2017/article/details/102456281/)
@@ -704,6 +706,10 @@ https://tieba.baidu.com/p/6908597952
  [A*Pathfinding](https://zhuanlan.zhihu.com/p/69593821)
 
 
+
+[.Net---CultureInfo中常用的InvariantCulture  相当于格式统一](https://www.cnblogs.com/GreenLeaves/p/6757917.html)
+
+[System.Convert.ChangeType  转换类型](http://www.csref.cn/vs100/method/System-Convert-ChangeType-1.html)
 
 [NavMeshSurface2dBaker](https://github.com/sharlatany/navmeshsurface2dbaker)
 
