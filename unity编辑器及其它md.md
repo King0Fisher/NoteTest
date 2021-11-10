@@ -691,6 +691,10 @@ https://tieba.baidu.com/p/6908597952
 
 [unity相关](https://www.zhihu.com/people/etnly/posts)
 
+[GameFrameWork框架](https://gameframework.cn/)
+
+C# ET框架
+
 
 
 [.NET软件开发与常用工具清单](https://www.cnblogs.com/SavionZhang/p/4033288.html)
@@ -723,6 +727,8 @@ https://tieba.baidu.com/p/6908597952
 
 [知乎2d引擎中这种物品渲染顺序](https://www.zhihu.com/question/381081975/answer/1093431117)
 
+[游戏框架](https://www.zhihu.com/question/37475609)
+
 [游戏框架相关](https://blog.csdn.net/weixin_42224688/article/details/80937986?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
 
 [游戏框架相关](https://blog.csdn.net/weixin_42487737/article/details/112329645?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-0.no_search_link&spm=1001.2101.3001.4242)
@@ -746,6 +752,12 @@ https://tieba.baidu.com/p/6908597952
 ​			https://blog.csdn.net/kenkao/article/details/89957778
 
 [深圳东方](https://tieba.baidu.com/p/6908597952?pn=1)
+
+[游戏相关](https://www.zhihu.com/people/KeyboardNOW)
+
+[游戏设计](https://zhuanlan.zhihu.com/p/24278045)
+
+
 
 unity 2020.1.17
 
