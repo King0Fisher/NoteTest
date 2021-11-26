@@ -506,7 +506,7 @@ public class ProducerEditDialog : ScriptableWizard
 
 [Unity编辑器扩展实践  通过代码查找所有预制](https://blog.csdn.net/qq_33461689/article/details/103773692)
 
-[OnValidate](https://blog.csdn.net/piai9568/article/details/96645500)
+Inspector面板修改变动检测[OnValidate](https://blog.csdn.net/piai9568/article/details/96645500)
 
 [【编辑器】脚本实现OpenPrefab界面](https://blog.csdn.net/sinat_34870723/article/details/92832399)
 
@@ -778,6 +778,12 @@ C# ET框架
 [InputSystem](https://developer.unity.cn/ask/question/60b8840cedbc2a325c6da20e)
 
 [C#相关](https://lvhang.site/csharp)
+
+不受timeScale影响 [Time.realtimeSinceStartup](https://docs.unity3d.com/2020.2/Documentation/ScriptReference/Time-realtimeSinceStartup.html)
+
+[矩形框选](https://blog.csdn.net/qq_35587645/article/details/108234586)
+
+
 
 Age of Reforging - Blackthorn
 
