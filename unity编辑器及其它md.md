@@ -558,6 +558,8 @@ GUIStyle
 
 }
 
+[Unity预览窗口](https://blog.csdn.net/akof1314/article/details/70941447/)
+
 {
 
 Unity GUID
@@ -790,6 +792,12 @@ C# ET框架
 [游戏编程简述](https://www.zhihu.com/column/c_83023344)
 
 [浅谈unity性能优化](https://www.233tw.com/unity/19588)
+
+[UI LayoutRebuilder](https://blog.csdn.net/qql7267/article/details/104026135)
+
+​	https://blog.csdn.net/mango9126/article/details/82902044?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0.highlightwordscore&spm=1001.2101.3001.4242.1
+
+[UGUI  Unity相关](https://www.zhihu.com/column/c_1325412336366850048)
 
 Age of Reforging - Blackthorn
 
