@@ -556,7 +556,7 @@ GUIStyle
 
 [PrefabUtility.SaveAsPrefabAsset](https://docs.unity.cn/cn/current/ScriptReference/PrefabUtility.SaveAsPrefabAsset.html)
 
-}
+[[FormerlySerializedAs] 防止更新变量后数据丢失](https://blog.csdn.net/qq168213001/article/details/43482623)
 
 [Unity预览窗口](https://blog.csdn.net/akof1314/article/details/70941447/)
 
@@ -580,9 +580,15 @@ Unity GUID
 
 [Unity对象的所有组件深拷贝与粘贴](https://blog.csdn.net/weixin_30516243/article/details/99526652?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
 
-UnityEditorInternal命名空间
+UnityEditorInternal 命名空间
 
 [Unity在编辑器模式下一键替换组件/序列化的对象修改](https://www.233tw.com/unity/28653)
+
+
+
+Unity截屏 ScreenCapture 
+
+[Unity截屏](https://www.jianshu.com/p/ee229e4c6b41)
 
 
 
@@ -798,6 +804,8 @@ C# ET框架
 ​	https://blog.csdn.net/mango9126/article/details/82902044?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0.highlightwordscore&spm=1001.2101.3001.4242.1
 
 [UGUI  Unity相关](https://www.zhihu.com/column/c_1325412336366850048)
+
+[spine官网](http://zh.esotericsoftware.com/)
 
 Age of Reforging - Blackthorn
 
