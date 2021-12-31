@@ -574,7 +574,11 @@ Unity GUID
 
 }
 
+[Resources.FindObjectsOfTypeAll](https://docs.unity.cn/cn/current/ScriptReference/Resources.FindObjectsOfTypeAll.html)
 
+[EditorUtility.IsPersistent](https://docs.unity.cn/cn/current/ScriptReference/EditorUtility.IsPersistent.html)  储存位置
+
+[获取Scene摄像机及相关应用(SceneView/Camera)](http://blog.sina.com.cn/s/blog_5b6cb95001019amy.html)
 
 [Unity Component组件复制](https://blog.csdn.net/honey199396/article/details/78738691)
 
