@@ -811,6 +811,18 @@ C# ET框架
 
 [UGUI  Unity相关](https://www.zhihu.com/column/c_1325412336366850048)
 
+[Unity技术专栏 The Unity game designer playbook电子书](https://developer.unity.cn/projects/61e7a926edbc2a363ecc68ee)
+
+[Unity技术专栏 音效文件目录自动生成获取音频](https://developer.unity.cn/projects/61cd2ef8edbc2a001fd25c96)
+
+[Unity技术专栏 Unity3D 实用算法](https://developer.unity.cn/projects/61c307dfedbc2a001f3bb4b7)
+
+[Unity技术专栏 十种故障艺术后处理算法的总结与实现](https://developer.unity.cn/projects/5f3b8492edbc2a10ed72ea75)
+
+[Unity社区](https://developer.unity.cn/u/animeking-1?tab=article)
+
+
+
 [spine官网](http://zh.esotericsoftware.com/)
 
 Age of Reforging - Blackthorn
