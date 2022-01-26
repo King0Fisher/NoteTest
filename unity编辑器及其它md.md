@@ -528,6 +528,8 @@ GUIStyle
 
 各样式 https://blog.csdn.net/u011428080/article/details/106676213
 
+https://www.jb51.cc/unity3d/1017356.html
+
 
 
 [DecoratorDrawer](https://blog.csdn.net/YongshuangZhao/article/details/80225223)
@@ -821,7 +823,7 @@ C# ET框架
 
 [Unity社区](https://developer.unity.cn/u/animeking-1?tab=article)
 
-
+[关于Unity的版本控制工具PlasticSCM的初步使用方法](https://blog.csdn.net/abczgl123/article/details/120598852?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_aa&utm_relevant_index=2)
 
 [spine官网](http://zh.esotericsoftware.com/)
 
