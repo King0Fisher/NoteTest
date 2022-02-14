@@ -514,6 +514,12 @@ Inspector面板修改变动检测[OnValidate](https://blog.csdn.net/piai9568/art
 
 
 
+[Unity3D Editor 编辑器扩展实战 脚本编译完成后设置回调函数](https://blog.csdn.net/u012632851/article/details/80891472)
+
+[UnityEditor.Callbacks.DidReloadScripts]
+
+
+
 ## 描述
 
 ## GL
@@ -644,6 +650,14 @@ public class UnitInfo : ScriptableObject
 [unity系统内置图标](https://www.xuanyusong.com/archives/3777/comment-page-1)
 
 [Unity所有自带style和icon](https://blog.csdn.net/qq_33337811/article/details/74012108)
+
+[知乎一些优质问答](https://www.zhihu.com/people/guo-jing-yu-58)
+
+[Unity 游戏红点系统(Reddot System)](https://blog.csdn.net/xdedzl/article/details/107745355?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3.pc_relevant_default&utm_relevant_index=6)(https://blog.csdn.net/weixin_44186849/article/details/122471049)
+
+unity GraphView
+
+[Unity GraphView 教程](https://www.bilibili.com/video/BV1Yq4y157RZ/)
 
 unity 网站:https://edu.51cto.com/courselist/126.html
 
