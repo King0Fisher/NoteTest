@@ -602,7 +602,7 @@ Unity截屏 ScreenCapture
 
 [Unity截屏](https://www.jianshu.com/p/ee229e4c6b41)
 
-
+[Unity动画 StateMachineBehaviour](https://blog.csdn.net/CJB_King/article/details/106145416)
 
 unity projector(阴影 投影)
 
@@ -641,7 +641,15 @@ public class UnitInfo : ScriptableObject
 
 [Unity资源管理](https://zhuanlan.zhihu.com/p/34679893)
 
+[Unity Asset](https://developer.unity.cn/projects/61558c31edbc2a00260cb41c)
 
+[Unity设计模式](https://developer.unity.cn/projects/5fb97254edbc2a127a67affb)
+
+[Unity Odin：制作工具的工具](https://developer.unity.cn/projects/615eb2b2edbc2a0021563ef5)
+
+[Unity编译](https://blog.csdn.net/songhuanfei2017/article/details/102590265)
+
+[Unity序列化](https://docs.unity3d.com/cn/current/Manual/script-Serialization.html)
 
 [UnityEvent 和 C# event 的差异与选择](https://blog.dctewi.com/post/unityevent-vs-csharpevent/)
 
@@ -702,6 +710,8 @@ UWA学堂:https://edu.uwa4d.com/
 浏览器插件 dark reader		adblock
 
 [itzy](https://page.hideu.live/)
+
+[unity时间回溯](https://zhuanlan.zhihu.com/p/122250846)
 
 [unity 2d光照](https://www.gameres.com/847306.html)
 
@@ -840,6 +850,8 @@ C# ET框架
 [关于Unity的版本控制工具PlasticSCM的初步使用方法](https://blog.csdn.net/abczgl123/article/details/120598852?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_aa&utm_relevant_index=2)
 
 [spine官网](http://zh.esotericsoftware.com/)
+
+sprite studio
 
 Age of Reforging - Blackthorn
 
