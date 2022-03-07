@@ -548,7 +548,7 @@ https://www.jb51.cc/unity3d/1017356.html
 
 [Unity3D中的Attribute详解（一）8篇文章](https://www.cnblogs.com/cangxw/p/8251898.html)
 
-
+[AddCursorRect  Editor鼠标样式](https://docs.unity.cn/cn/2020.3/ScriptReference/EditorGUIUtility.AddCursorRect.html)
 
 [playModeStateChanged 编辑器Game播放模式变化](https://docs.unity.cn/cn/current/ScriptReference/EditorApplication-playModeStateChanged.html)
 
