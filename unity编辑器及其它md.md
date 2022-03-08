@@ -639,6 +639,12 @@ public class UnitInfo : ScriptableObject
     public AssetReference PrefabReference;
 ```
 
+[Unity3D换装](https://www.cnblogs.com/oldman/articles/2395518.html)(2https://tieba.baidu.com/p/3556182693)
+
+[UnityAPI Rigidbody ](https://www.cnblogs.com/colve/p/5954742.html)
+
+[Unity 交流群](https://tieba.baidu.com/p/7703422652?red_tag=0590434304)
+
 [Unity资源管理](https://zhuanlan.zhihu.com/p/34679893)
 
 [Unity Asset](https://developer.unity.cn/projects/61558c31edbc2a00260cb41c)
@@ -848,6 +854,8 @@ C# ET框架
 [Unity社区](https://developer.unity.cn/u/animeking-1?tab=article)
 
 [关于Unity的版本控制工具PlasticSCM的初步使用方法](https://blog.csdn.net/abczgl123/article/details/120598852?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_aa&utm_relevant_index=2)
+
+[独立游戏](https://tieba.baidu.com/p/7112383271?pn=1)
 
 [spine官网](http://zh.esotericsoftware.com/)
 
