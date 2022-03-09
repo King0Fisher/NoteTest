@@ -853,6 +853,12 @@ C# ET框架
 
 [Unity社区](https://developer.unity.cn/u/animeking-1?tab=article)
 
+[Unity Learn](https://learn.unity.com/)
+
+[Corgi 引擎](https://assetstore.unity.com/packages/templates/systems/corgi-engine-2d-2-5d-platformer-26617)
+
+[2D Shader](https://assetstore.unity.com/packages/templates/tutorials/learn-2d-shader-development-01-foundations-book-exercises-127726)
+
 [关于Unity的版本控制工具PlasticSCM的初步使用方法](https://blog.csdn.net/abczgl123/article/details/120598852?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_aa&utm_relevant_index=2)
 
 [独立游戏](https://tieba.baidu.com/p/7112383271?pn=1)
