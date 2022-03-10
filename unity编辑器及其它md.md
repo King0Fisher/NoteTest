@@ -606,6 +606,8 @@ Unity截屏 ScreenCapture
 
 unity projector(阴影 投影)
 
+[AB包介绍](https://zhuanlan.zhihu.com/p/342694796)
+
 [Unity AssetBundle	1](https://zhuanlan.zhihu.com/p/93199562)
 
 [Unity AssetBundle	2](https://blog.csdn.net/qq_35361471/article/details/82854560)
