@@ -661,6 +661,8 @@ public class UnitInfo : ScriptableObject
 
 [Unity序列化系统](https://www.jianshu.com/p/b461c28b30d6)
 
+[深入Unity序列化](https://zhuanlan.zhihu.com/p/76247383)
+
 [UnityEvent 和 C# event 的差异与选择](https://blog.dctewi.com/post/unityevent-vs-csharpevent/)
 
 [Unity 新 InputSystem](https://zhuanlan.zhihu.com/p/106396562)
