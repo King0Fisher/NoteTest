@@ -85,3 +85,7 @@ class Test
 
 ;B复制了一份A中的myClass的引用(地址)
 
+
+
+[C#深入解析深拷贝和浅拷贝](https://blog.csdn.net/weixin_34055787/article/details/85131264?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_paycolumn_v3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_paycolumn_v3&utm_relevant_index=2)
+

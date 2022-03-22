@@ -659,6 +659,8 @@ public class UnitInfo : ScriptableObject
 
 [Unity序列化](https://docs.unity3d.com/cn/current/Manual/script-Serialization.html)
 
+[Unity序列化系统](https://www.jianshu.com/p/b461c28b30d6)
+
 [UnityEvent 和 C# event 的差异与选择](https://blog.dctewi.com/post/unityevent-vs-csharpevent/)
 
 [Unity 新 InputSystem](https://zhuanlan.zhihu.com/p/106396562)
@@ -698,6 +700,12 @@ UWA学堂:https://edu.uwa4d.com/
 
 
 [Unity  Effective C#](https://zhuanlan.zhihu.com/p/25530915)
+
+[HashTable、HashSet和Dictionary的区别](https://www.cnblogs.com/akwwl/p/3680376.html)
+
+[C# Hashtable、HashSet和Dictionary的区别](https://www.cnblogs.com/wwkk/p/12957086.html)
+
+[Dictionary 与 List 集合的区别及效率](https://blog.csdn.net/cyxie_14/article/details/95311200)
 
 [C#反射](https://blog.csdn.net/weixin_30834783/article/details/95391126)
 
