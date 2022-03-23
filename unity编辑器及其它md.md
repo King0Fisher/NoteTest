@@ -653,6 +653,10 @@ public class UnitInfo : ScriptableObject
 
 [Unity设计模式](https://developer.unity.cn/projects/5fb97254edbc2a127a67affb)
 
+[Unity Lua](https://www.cnblogs.com/slysky/p/7919114.html)
+
+[Unity Lua](http://www.gimoo.net/t/1602/56c436917360e.html)
+
 [Unity Odin：制作工具的工具](https://developer.unity.cn/projects/615eb2b2edbc2a0021563ef5)
 
 [Unity编译](https://blog.csdn.net/songhuanfei2017/article/details/102590265)
