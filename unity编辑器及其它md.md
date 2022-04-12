@@ -432,7 +432,7 @@ EditorGUI 的各种辅助程序。
 
 简单理解:
 
-继承PropertyAttribute这个类,便能用一个自定义的PropertyDrawer的类去控制继承ProeertyAttribute类的变量在Inspector面板中的显示
+继承PropertyAttribute这个类,便能用一个自定义的PropertyDrawer的类去控制继承PropertyAttribute类的变量在Inspector面板中的显示
 
 [相关链接](https://blog.csdn.net/qq_33337811/article/details/66475651)
 
@@ -854,6 +854,10 @@ C# ET框架
 [InputSystem](https://developer.unity.cn/ask/question/60b8840cedbc2a325c6da20e)
 
 [C#相关](https://lvhang.site/csharp)
+
+[C#  2,3,4 优化](https://developer.unity.cn/projects/6237f9f9edbc2a57d736ea61)
+
+
 
 [游戏编程相关(unity插件等)](https://www.233tw.com/)
 
