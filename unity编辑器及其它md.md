@@ -602,6 +602,8 @@ UnityEditorInternal 命名空间
 
 
 
+Unity存档相关 Application.persistentDataPath
+
 [Unity3D游戏优化之头顶UI  SuperTextMesh](https://blog.csdn.net/u011926026/article/details/70047220)
 
 [SuperTextMesh](http://supertextmesh.com/)
