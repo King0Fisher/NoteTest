@@ -600,6 +600,8 @@ UnityEditorInternal 命名空间
 
 [bili unity教程](https://www.baidu.com/link?url=p4EfiYp_bfgKX1xZh3vjGSN4uv2D9DRF9crcOL4ryI-w1D4_iMV06ozgyZC-BZLTLtbiaSkBbXoAUHS6p95U7q&wd=&eqid=b41771ab0007945600000006624e48d0)
 
+[Unity序列化 UWA](https://zhuanlan.zhihu.com/p/29357313)
+
 
 
 [Unity 协程等待对象的生命周期](https://www.cnblogs.com/tiancaiwrk/p/13384015.html)
