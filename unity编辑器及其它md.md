@@ -733,6 +733,10 @@ UWA学堂:https://edu.uwa4d.com/
 
 
 
+
+
+[开源 GPL协议 ](https://zhuanlan.zhihu.com/p/447233205)
+
 [Unicode UTF-8](https://www.zhihu.com/question/23374078)
 
 [数据结构哈希表](https://www.zhihu.com/question/330112288/answer/744362539)
