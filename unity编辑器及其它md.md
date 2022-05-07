@@ -616,6 +616,16 @@ Unity存档相关 Application.persistentDataPath
 
 [Unity3D游戏优化之头顶UI  SuperTextMesh](https://blog.csdn.net/u011926026/article/details/70047220)
 
+[Unity UGUI Text图文混排（聊天文字混表情），支持动态表情](https://linxinfa.blog.csdn.net/article/details/115548566)
+
+[Unity UGUI Text实现超链接点击](https://blog.csdn.net/weixin_39114763/article/details/118577077)
+
+[UGUI表情系统&超链接解决方案](https://blog.csdn.net/w36680130/article/details/118461255)
+
+[协程Profiler监控Monitor插件](https://blog.csdn.net/avi9111/article/details/109688757)
+
+
+
 [SuperTextMesh](http://supertextmesh.com/)
 
 Unity截屏 ScreenCapture 
