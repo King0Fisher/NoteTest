@@ -741,7 +741,13 @@ UWA学堂:https://edu.uwa4d.com/
 
 
 
-[Unity FPDSample](https://github.com/Unity-Technologies/FPSSample)
+[Unit3D RichText 图标扩展的简单实现](http://www.cppblog.com/shly/archive/2016/05/22/213564.html)
+
+[Unity脚本修改游戏对象的图标SelectIcon的方法](https://www.jianshu.com/p/3dfb813e5d8a)
+
+
+
+[Unity FPSSample](https://github.com/Unity-Technologies/FPSSample)
 
 [Unity UPR](https://upr.unity.cn/instructions/desktop)
 
