@@ -949,9 +949,19 @@ C# ET框架
 
 [关于Unity的版本控制工具PlasticSCM的初步使用方法](https://blog.csdn.net/abczgl123/article/details/120598852?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_aa&utm_relevant_index=2)
 
+[Unity图集减少DarwCall](https://blog.csdn.net/hankangwen/article/details/122527539)
+
+[Unity图集简介及使用](https://blog.csdn.net/z2014z/article/details/119654256)
+
+[Unity图集的创建与简单的使用（上）](https://blog.csdn.net/qq_17367039/article/details/102027137)
+
+[Unity切割图片：把一张图片中的物体裁成多个单独的游戏物体](https://blog.csdn.net/mj_yong/article/details/119487214)
+
 
 
 [Face Analyzer人脸属性检测插件](http://www.manew.com/thread-158759-1-1.html)
+
+[Unity课程](https://academy.zenva.com/)
 
 [独立游戏](https://tieba.baidu.com/p/7112383271?pn=1)
 
