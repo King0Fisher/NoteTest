@@ -835,7 +835,7 @@ C# ET框架
 
  [A*Pathfinding](https://zhuanlan.zhihu.com/p/69593821)
 
-
+[Unity给角色拍照插件制作，透明无背景](https://zhuanlan.zhihu.com/p/471367331)
 
 [.Net---CultureInfo中常用的InvariantCulture  相当于格式统一](https://www.cnblogs.com/GreenLeaves/p/6757917.html)
 
@@ -956,6 +956,8 @@ C# ET框架
 [Unity图集的创建与简单的使用（上）](https://blog.csdn.net/qq_17367039/article/details/102027137)
 
 [Unity切割图片：把一张图片中的物体裁成多个单独的游戏物体](https://blog.csdn.net/mj_yong/article/details/119487214)
+
+[ILSpy. GitHub](https://github.com/icsharpcode/ILSpy/releases/tag/v7.2.1)
 
 
 
