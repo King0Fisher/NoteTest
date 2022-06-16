@@ -877,6 +877,8 @@ C# ET框架
 
 [unity ui mvc](https://blog.csdn.net/qq_39574690/article/details/80757261)
 
+[C#编程规范](http://www.doczj.com/doc/7c13799516-2.html)
+
 [编程命名规范](https://zhuanlan.zhihu.com/p/89909623)
 
 [Unity exe打包安装包](https://wenku.baidu.com/view/a599694e974bcf84b9d528ea81c758f5f71f297a.html)
@@ -913,7 +915,15 @@ C# ET框架
 
 
 
+[SVN](https://www.shuzhiduo.com/A/D854yxKxdE/)
+
+[SVN](https://www.jb51.net/article/17365.htm)
+
 [SVN服务器](https://www.likecs.com/show-377908.html)
+
+[IP查看](https://baijiahao.baidu.com/s?id=1729344643732566181&wfr=spider&for=pc)
+
+
 
 [游戏编程相关(unity插件等)](https://www.233tw.com/)
 
@@ -942,6 +952,8 @@ C# ET框架
 [Unity技术专栏 十种故障艺术后处理算法的总结与实现](https://developer.unity.cn/projects/5f3b8492edbc2a10ed72ea75)
 
 [Unity博客](https://blog.unity.com/)
+
+[Unity2d](https://blog.unity.com/reading-list/level-up-your-2d-skills)
 
 [Unity社区](https://developer.unity.cn/u/animeking-1?tab=article)
 
