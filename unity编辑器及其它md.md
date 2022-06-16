@@ -941,6 +941,8 @@ C# ET框架
 
 [Unity技术专栏 十种故障艺术后处理算法的总结与实现](https://developer.unity.cn/projects/5f3b8492edbc2a10ed72ea75)
 
+[Unity博客](https://blog.unity.com/)
+
 [Unity社区](https://developer.unity.cn/u/animeking-1?tab=article)
 
 [Unity Learn](https://learn.unity.com/)
