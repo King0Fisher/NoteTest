@@ -598,6 +598,8 @@ UnityEditorInternal 命名空间
 
 
 
+[Unity 热更](https://www.zhihu.com/question/35100978)
+
 [Unity工具插件](https://www.gameres.com/793107.html)
 
 [bili unity教程](https://www.baidu.com/link?url=p4EfiYp_bfgKX1xZh3vjGSN4uv2D9DRF9crcOL4ryI-w1D4_iMV06ozgyZC-BZLTLtbiaSkBbXoAUHS6p95U7q&wd=&eqid=b41771ab0007945600000006624e48d0)
