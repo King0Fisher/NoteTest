@@ -598,6 +598,8 @@ UnityEditorInternal 命名空间
 
 
 
+[Dialogue System for Unity](https://blog.51cto.com/u_15296123/5241193)
+
 [Unity 热更](https://www.zhihu.com/question/35100978)
 
 [Unity工具插件](https://www.gameres.com/793107.html)
