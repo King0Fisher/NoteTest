@@ -929,6 +929,8 @@ C# ET框架
 
 
 
+[URP](https://zhuanlan.zhihu.com/p/428041086)
+
 [Unity Fungus对话插件](https://github.com/snozbot/fungus)
 
 [Unity相关](https://live.csdn.net/room/q764424567/uYpqeStv?utm_medium=distribute.pc_notice.519869.nonecase%3Futm_source%3D1617967411759)
