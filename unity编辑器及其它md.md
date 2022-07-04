@@ -969,6 +969,16 @@ C# ET框架
 
 [Unity Learn](https://learn.unity.com/)
 
+[Unity资源分享](https://www.unityfly.com/)
+
+[各种资源 cg柚子](http://www.cgioo.com/index.php)
+
+[插件素材网站](https://www.zhihu.com/question/517710075/answer/2361421845)
+
+[unity各网站](https://blog.csdn.net/Dearggae/article/details/45390019)
+
+[资源](http://iiidea.cn/)
+
 [Corgi 引擎](https://assetstore.unity.com/packages/templates/systems/corgi-engine-2d-2-5d-platformer-26617)
 
 [2D Shader](https://assetstore.unity.com/packages/templates/tutorials/learn-2d-shader-development-01-foundations-book-exercises-127726)
@@ -987,7 +997,7 @@ C# ET框架
 
 [Unity课程](https://learn.u3d.cn/tutorial/path-to-mastery-bundle)
 
-[6m5n](http://www.6m5m.com/)
+[6m5m](http://www.6m5m.com/)
 
 [Face Analyzer人脸属性检测插件](http://www.manew.com/thread-158759-1-1.html)
 
