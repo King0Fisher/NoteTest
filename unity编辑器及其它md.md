@@ -630,6 +630,8 @@ Unity存档相关 Application.persistentDataPath
 
 [协程Profiler监控Monitor插件](https://blog.csdn.net/avi9111/article/details/109688757)
 
+[Unity2021 定制Unity Profiler的性能指标](https://developer.unity.cn/projects/62bbc3bdedbc2a7841e3efbb)
+
 
 
 [SuperTextMesh](http://supertextmesh.com/)
@@ -932,6 +934,8 @@ C# ET框架
 [URP](https://zhuanlan.zhihu.com/p/428041086)
 
 [Unity Fungus对话插件](https://github.com/snozbot/fungus)
+
+[Unity技巧](https://www.bilibili.com/read/cv13046697)
 
 [Unity相关](https://live.csdn.net/room/q764424567/uYpqeStv?utm_medium=distribute.pc_notice.519869.nonecase%3Futm_source%3D1617967411759)
 
