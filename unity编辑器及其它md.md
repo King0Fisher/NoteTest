@@ -548,6 +548,8 @@ https://www.jb51.cc/unity3d/1017356.html
 
 [Unity3D中的Attribute详解（一）8篇文章](https://www.cnblogs.com/cangxw/p/8251898.html)
 
+[InitializeOnLoadMethod](https://www.freesion.com/article/5349166044/)
+
 [AddCursorRect  Editor鼠标样式](https://docs.unity.cn/cn/2020.3/ScriptReference/EditorGUIUtility.AddCursorRect.html)
 
 [playModeStateChanged 编辑器Game播放模式变化](https://docs.unity.cn/cn/current/ScriptReference/EditorApplication-playModeStateChanged.html)
@@ -810,6 +812,8 @@ UWA学堂:https://edu.uwa4d.com/
 https://tieba.baidu.com/p/6908597952
 
 [unity2d动作](https://mp.weixin.qq.com/s?__biz=MzU5MjQ1NTEwOA==&mid=2247496117&idx=1&sn=90a0b2f03cba36d5a8488b10ae84bac7&chksm=fe1dc51ec96a4c085469ddf27f3ff6446c77b618c00a191751889bcd83416569d93fca21a3f2&mpshare=1&scene=1&srcid=12235zHDsYkxrfxF7poCKBbU#rd)
+
+[unity2d 动画插件AnyPortrait](https://assetstore.unity.com/packages/tools/animation/anyportrait-111584#reviews)
 
 [格斗游戏](https://www.zhihu.com/question/40969731)
 
