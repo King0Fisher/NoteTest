@@ -530,6 +530,10 @@ Inspector面板修改变动检测[OnValidate](https://blog.csdn.net/piai9568/art
 
 
 
+[Unity Editor扩展 GraphView](https://www.233tw.com/unity/98320)
+
+[xNode](https://github.com/Siccity/xNode#readme)
+
 [Unity编辑器](https://zhuanlan.zhihu.com/p/109328430)
 
 [HandleUtility](https://docs.unity.cn/cn/2020.3/ScriptReference/HandleUtility.html)
