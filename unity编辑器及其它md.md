@@ -805,6 +805,8 @@ UWA学堂:https://edu.uwa4d.com/
 
 [Dictionary 与 List 集合的区别及效率](https://blog.csdn.net/cyxie_14/article/details/95311200)
 
+[协变逆变](https://www.bbsmax.com/A/GBJrEqkKz0/)  (http://wjhsh.net/taiyonghai-p-6524910.html)
+
 [C#反射](https://blog.csdn.net/weixin_30834783/article/details/95391126)
 
 [C#用反射获取类中的方法](https://blog.csdn.net/weixin_43935474/article/details/103290114?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=1331647.20776.16184506581230963&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control)
