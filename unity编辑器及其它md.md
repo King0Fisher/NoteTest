@@ -831,6 +831,8 @@ UWA学堂:https://edu.uwa4d.com/
 
 [unity 2d光照](https://www.gameres.com/847306.html)
 
+[Unity教程 快速实现八方旅人的光影效果](https://www.bilibili.com/video/av292362197)
+
 https://tieba.baidu.com/p/6908597952
 
 [unity2d动作](https://mp.weixin.qq.com/s?__biz=MzU5MjQ1NTEwOA==&mid=2247496117&idx=1&sn=90a0b2f03cba36d5a8488b10ae84bac7&chksm=fe1dc51ec96a4c085469ddf27f3ff6446c77b618c00a191751889bcd83416569d93fca21a3f2&mpshare=1&scene=1&srcid=12235zHDsYkxrfxF7poCKBbU#rd)
@@ -956,6 +958,8 @@ C# ET框架
 [IP查看](https://baijiahao.baidu.com/s?id=1729344643732566181&wfr=spider&for=pc)
 
 
+
+[Unity 获取本地文件夹下所有视频和图片](https://www.cnblogs.com/qq2351194611/p/15723302.html)
 
 [URP](https://zhuanlan.zhihu.com/p/428041086)
 
