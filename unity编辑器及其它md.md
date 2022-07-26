@@ -1013,6 +1013,8 @@ C# ET框架
 
 [资源](http://iiidea.cn/)
 
+[Shader](https://www.cnblogs.com/maple-share/p/5395097.html) 官方手册
+
 [2d](https://www.bilibili.com/video/BV1nY411T7Dk?spm_id_from=444.42.list.card_archive.click&vd_source=8efc6f32b683dbe0a4446b310aa34e03)
 
 [Corgi 引擎](https://assetstore.unity.com/packages/templates/systems/corgi-engine-2d-2-5d-platformer-26617)
